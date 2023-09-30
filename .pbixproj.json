@@ -21,7 +21,7 @@
         },
         "environments": {
           "PROD": {
-            "workspace": "Reports DevOps Tutorial"
+            "workspace": "Adventureworks Test"
           }
         }
       }
